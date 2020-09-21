@@ -60,3 +60,4 @@ export default function App() {
     </div>
   );
 }
+//Change state with props ( Parent -> Child ),  use EventHandlers ( Child -> Parent )
